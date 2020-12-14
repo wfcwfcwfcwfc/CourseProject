@@ -1,3 +1,3 @@
 # CourseProject
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Final Report: https://github.com/wfcwfcwfcwfc/CourseProject/blob/main/CS%20410%20Course%20Project%20-%20Final.pdf
