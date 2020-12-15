@@ -7,3 +7,5 @@
 [Code](https://github.com/wfcwfcwfcwfc/CourseProject/blob/main/cs410-classification-contest.ipynb)
 
 [Result](https://github.com/wfcwfcwfcwfc/CourseProject/blob/main/cs410-classification-contest-result.txt)
+
+[Demo Video](https://youtu.be/fOtw682QnYY)
